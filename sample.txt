@@ -1,3 +1,4 @@
 sample
 add some comment
 commit record index status
+pull
